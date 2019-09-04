@@ -1,0 +1,18 @@
+server:
+    port: 8001
+logging:
+    level:
+        com: debug
+    file: d://work/out.log
+    path: /mylog
+management:
+  endpoints:
+    web:
+      exposure:
+       include: "*"
+  endpoint:
+    health:
+      show-details: always
+
+
+

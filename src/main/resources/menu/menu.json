@@ -1,0 +1,16 @@
+[
+  {
+    "link": "/jobList",
+    "name": "工作列表",
+    "code": "1",
+    "icon": "table",
+    "child": []
+  },
+  {
+    "link": "/dashBoard",
+    "name": "仪表盘",
+    "code": "2",
+    "icon": "radar-chart",
+    "child": []
+  }
+]
